@@ -14,17 +14,15 @@ root.render(
       theme={{
         components: {
           Button: {
-            colorPrimary: "800000",
-            colorPrimaryHover: "800000",
+            colorPrimary: "#F05454",
+            colorPrimaryHover: "#F05454",
             borderRadius: "2px",
             boxShadow: "none",
           },
         },
         token: {
           borderRadius: "2px",
-          colorPrimary: "800000",
-          borderRadius: "2px",
-          boxShadow: "none",
+          colorPrimary: "#40513B",
         },
       }}
     >

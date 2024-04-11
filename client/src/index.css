@@ -26,8 +26,6 @@ input:focus , textarea:focus , select:focus{
 button{
   height: 45px !important;
   box-shadow: none !important;
-  color: #800000;
-
 }
 
 table{
